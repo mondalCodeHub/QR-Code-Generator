@@ -40,7 +40,7 @@ after everything is in place. You can now launch this app in your terminal type:
 
 
 ## Screenshots
-(01) [ responsive design using @tailwindcss ]
+(01) [ responsive design using tailwindcss ]
 ![Screenshot (2146)](https://user-images.githubusercontent.com/88100576/200742133-ef2ab1cd-ccd0-4c42-90da-4fbb3dc0ccc4.png)
 (02) [ Desktop or Laptop ]
 ![Screenshot (2147)](https://user-images.githubusercontent.com/88100576/200742293-5ee12053-4d61-4fe7-a61b-688901ba0c7e.png)
